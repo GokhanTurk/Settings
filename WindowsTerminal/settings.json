@@ -42,7 +42,7 @@
     {
         "defaults": 
         {
-            "backgroundImage": "C:\\Users\\%USERPROFILE%\\Pictures\\BJK(Terminal).png",
+            "backgroundImage": "%USERPROFILE%\\Pictures\\BJK(Terminal).png",
             "backgroundImageAlignment": "bottomRight",
             "backgroundImageOpacity": 0.55,
             "backgroundImageStretchMode": "none",
